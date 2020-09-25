@@ -1,0 +1,42 @@
+
+    body{
+      background-color:#fafcc2 ;
+    }
+    hr{
+      
+      border-color: grey; 
+      border-style: dotted;
+      border-top-width:0.2em;
+      border-bottom-width:0em; 
+      margin-bottom:10px; 
+      height: 0px; 
+     
+      border-height:0px; 
+      margin-top:2%; 
+      width: 5%;
+
+
+    }
+    table{
+      border-color:black; 
+      border-width:3px;
+      max-width: 1000px; 
+    }
+    h1{
+      
+      margin-bottom: 1em;
+    
+      margin-top: 10px;
+      
+
+    }
+    h1,h2,h3{
+      color:green;
+    }
+    img{
+      margin-right:10px;
+    }
+    button{
+      margin-top: 10px;
+      border-color: blue;
+    }
